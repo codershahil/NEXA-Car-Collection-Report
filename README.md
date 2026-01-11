@@ -36,7 +36,6 @@ It provides a quick overview of sales performance using charts, KPIs, and filter
 
 ## 🖼 Dashboard Preview
 
-```
 ![NEXA Car Collection Report](./nexa-car-collection-dashboard.jpeg)
 ```
 
